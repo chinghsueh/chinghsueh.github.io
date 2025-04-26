@@ -1,4 +1,4 @@
-# Fingerprint Recongnizer
+# Fingerprint Recongnizer GUI
 
 A GUI allowing users to upload a fingerprint file and compare the fingerprint with others from the database.
 
