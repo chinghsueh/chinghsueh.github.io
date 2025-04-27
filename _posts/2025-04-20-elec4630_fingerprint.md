@@ -4,6 +4,8 @@ A GUI allowing users to upload a fingerprint file and compare the fingerprint wi
 
 ## GUI
 
+### Steps
+
 1. Create a GUI using tkinter
 
 ![](/images/study/elec4630-fingerprint/GUI_1.jpg)
@@ -47,7 +49,7 @@ A GUI allowing users to upload a fingerprint file and compare the fingerprint wi
 
 7. User can update the file path at anytime
 
-## Feedback
+### Feedback
 
 1. Learn how to use tkinter
 2. Preferred place more than pack and grid
