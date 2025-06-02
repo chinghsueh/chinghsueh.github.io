@@ -4,13 +4,20 @@
 
 ### course22 Notebooks
 
-| **Notebook** | **Private Score** | **Public Score** | **epoch** | **Average Time** |
+| **Notebook** | **Process Stage** | **Private Score** | **Public Score** |
 |-----|-----|-----|-----|
-| 8 | 0.874 | 0.882 | 3 | 22 sec |
-| 8 | 0.878 | 0.879 | 3 | 23 sec |
-| 9 | 0.957 | 0.967 | 2 | 9 min |
+| 8 | 2 | 0.874 | 0.882 |
+| 9 | 5 | 0.957 | 0.967 |
+
+- As notebook 9
 
 ### course22 No.8
+
+| **epoch** | **Private Score** | **Public Score** | **epoch** | **Average Time** |
+|-----|-----|-----|-----|
+| 3 | 0.874 | 0.882 | 3 | 22 sec |
+| 3 | 0.878 | 0.879 | 3 | 23 sec |
+| 2 | 0.957 | 0.967 | 2 | 9 min |
 
 ## Attempts
 
