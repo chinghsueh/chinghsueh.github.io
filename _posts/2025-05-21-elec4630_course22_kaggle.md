@@ -15,7 +15,9 @@
 
 | **epoch** | **Timm** | **Private Score** | **Public Score** |
 |-----|-----|-----|-----|
+| 5 | convnext_small | 0.970 | 0.970 |
 | 5 | resnet26d | 0.957 | 0.967 |
+| 3 | convnext_small | 0.960 | 0.958 |
 | 3 | resnet26d | 0.874 | 0.882 |
 | 3 | resnet26d | 0.878 | 0.879 |
 | 3 | resnet50d | 0.789 | 0.769 |
